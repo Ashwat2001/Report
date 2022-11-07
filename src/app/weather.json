@@ -1,0 +1,106 @@
+[
+  {
+    "number" : 1,
+    "name": "Delhi",
+    "country": "India",
+    "latitude": 28.67,
+    "longitude": 77.22,
+    "temp_c": 29,
+    "temp_f": 84.2,
+    "wind_mph": 2.2,
+    "wind_kph": 3.6,
+    "cloud": 0
+  },
+
+  {
+    "number": 2,
+		"name": "Mumbai",
+		"country": "India",
+		"longitude": 33.1,
+		"latitude": 48.7,
+		"temp_c":24,
+		"temp_f":56,
+		"wind_mph":92,
+		"wind_kph":5.28,
+		"cloud":5
+  },
+
+  {
+    "number": 3,
+		"name": "Chennai",
+		"country": "India",
+		"longitude": 11.5,
+		"latitude": 62.5,
+		"temp_c":522,
+		"temp_f":120,
+		"wind_mph":1227,
+		"wind_kph":120,
+		"cloud":14
+  },
+
+  {
+    "number" : 4,
+    "name": "Bangalore",
+    "country": "India",
+    "latitude": 128.67,
+    "longitude": 177.22,
+    "temp_c": 129,
+    "temp_f": 184.2,
+    "wind_mph": 26.2,
+    "wind_kph": 63.6,
+    "cloud": 92
+  },
+
+  {
+    "number" : 5,
+    "name": "Hyderabad",
+    "country": "India",
+    "latitude": 1218.67,
+    "longitude": 717.22,
+    "temp_c": 229,
+    "temp_f": 824.23,
+    "wind_mph": 24.2,
+    "wind_kph": 53.6,
+    "cloud": 20
+  },
+
+  {
+    "number" : 6,
+    "name": "Ahmedabad",
+    "country": "India",
+    "latitude": 285.67,
+    "longitude": 747.22,
+    "temp_c": 259,
+    "temp_f": 844.2,
+    "wind_mph": 23.2,
+    "wind_kph": 53.6,
+    "cloud": 10
+  },
+
+  {
+    "number" : 7,
+    "name": "Kolkata",
+    "country": "India",
+    "latitude": 58.67,
+    "longitude": 87.22,
+    "temp_c": 39,
+    "temp_f": 54.2,
+    "wind_mph": 32.2,
+    "wind_kph": 13.6,
+    "cloud": 19
+  },
+
+  {
+    "number" : 8,
+    "name": "Pune",
+    "country": "India",
+    "latitude": 76.67,
+    "longitude": 17.22,
+    "temp_c": 25,
+    "temp_f": 90.2,
+    "wind_mph": 3.2,
+    "wind_kph": 5.6,
+    "cloud": 10
+  } 
+]
+    

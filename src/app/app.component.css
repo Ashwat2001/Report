@@ -1,0 +1,11 @@
+.main{
+    padding: 80px;
+}
+form{
+    padding: 50px;
+    border: solid 1px black;
+
+}
+th{
+  cursor: pointer;  
+}
